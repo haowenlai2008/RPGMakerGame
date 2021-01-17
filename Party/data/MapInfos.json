@@ -8,5 +8,5 @@ null,
 {"id":6,"expanded":true,"name":"第三幕","order":5,"parentId":1,"scrollX":819,"scrollY":460},
 {"id":7,"expanded":false,"name":"第六幕-城镇2","order":7,"parentId":1,"scrollX":819,"scrollY":460},
 {"id":8,"expanded":false,"name":"实验室","order":9,"parentId":0,"scrollX":819,"scrollY":460},
-{"id":9,"expanded":false,"name":"第四幕-教堂","order":6,"parentId":1,"scrollX":811,"scrollY":500}
+{"id":9,"expanded":false,"name":"第四幕-教堂","order":6,"parentId":1,"scrollX":811,"scrollY":499}
 ]
